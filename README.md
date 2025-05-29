@@ -36,7 +36,9 @@ npm install
 npm run dev
 ```
 
-The app will be available at http://localhost:5173
+## 🌐 Live Demo
+
+You can view the live application here: [rick-and-morty-table-drab.vercel.app](https://rick-and-morty-table-drab.vercel.app)
 
 📌 Assessment Goals
 
