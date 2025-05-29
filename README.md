@@ -30,7 +30,7 @@ A responsive React application displaying characters from the Rick and Morty uni
 To run the project locally:
 
 ```bash
-git clone https://github.com/koray-kocaelli/rick-and-morty-table.git
+git clone https://github.com/koraykocaelli/rick-and-morty-table
 cd rick-and-morty-table
 npm install
 npm run dev
